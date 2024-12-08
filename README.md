@@ -15,7 +15,7 @@
 - ## To reproduce our result
   - ## ResNet:
       - Download or copy GTSRB_ResNet.ipynb from this repo.
-      - Download dataset.
-      - Upload them to your Google Drive in the same folder.
+      - Create a shortcut of our dataset on Google Drive.
+      - Put the dataset shortcut and .ipynb file in the same folder
       - You may need to change the GOOGLE_DRIVE_PATH depending on where you put them.
       - Run .ipynb file
