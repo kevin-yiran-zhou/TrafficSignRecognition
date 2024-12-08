@@ -6,6 +6,8 @@
 
 - ## Dataset: GTSRB（German Traffic Sign Recognition Benchmark）
 
+  From Kaggle: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+
   Download from our Google Drive: https://drive.google.com/drive/folders/1N-OytOWJ3XINY1_IB4xqNXw96dcKG2-r?usp=sharing
 
   To save data loading time and training time, we only took 10% of training and testing data.
