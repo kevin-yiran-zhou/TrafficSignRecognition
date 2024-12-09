@@ -19,10 +19,9 @@
       - You may need to change the GOOGLE_DRIVE_PATH depending on where you put them.
       - Run .ipynb file
   - ## YOLOv5: by Zheng Wang
-      - 
+      - GTSRB_YOLOv5.ipynb
   - ## ST-CNN: by Qizhang Shen
-      - Optional: download pred.csv from this repo. It is the trained result.
-      - Download or copy FTSRB_STCNN.ipynb from this repo. 
+      - Download or copy GTSRB_STCNN.ipynb from this repo. 
       - Create a shortcut to [this dataset](https://drive.google.com/drive/folders/13OmO7R4bavH7GvDK5zwGHdUl_WXMb1GR?usp=sharing) on your Google Drive
       - You may need to change the GOOGLE_DRIVE_PATH depending on where you put them.
       - Run .ipynb file
